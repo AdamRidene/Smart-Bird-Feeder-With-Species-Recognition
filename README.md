@@ -44,7 +44,7 @@ The project addresses the challenge of designing an intelligent, autonomous syst
 Design an IoT system that monitors a feeder and identifies species via artificial vision.
 
 ### 2. Presence Detection
-Define a connected object that uses motion (**PIR**), infrared, and camera sensors to detect visitors effectively.
+Define a connected object that uses a motion (**PIR**) sensor to detect visitors effectively.
 
 ### 3. Cloud Integration
 Use cloud technologies  for:
