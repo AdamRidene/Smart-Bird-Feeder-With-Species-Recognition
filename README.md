@@ -36,6 +36,8 @@ The project addresses the challenge of designing an intelligent, autonomous syst
 * Collecting reliable, connected data.
 * Minimizing overall hardware and operational costs.
 * Operating independently in an outdoor environment.
+
+  
 `Objectives`:
 
 ### 1. Automated Monitoring
