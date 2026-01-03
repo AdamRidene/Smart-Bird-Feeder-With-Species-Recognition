@@ -72,3 +72,8 @@ Requirements (both hardware and software)
 * **Bird Species Dataset:** Dataset extracted from Roboflow.
 
 Instructions for equipment installation:
+
+<p align='center'>
+   <img src="schéma_système.jpeg" alt="Circuit" width="500">
+</p>
+
